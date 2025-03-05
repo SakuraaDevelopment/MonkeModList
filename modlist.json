@@ -3,16 +3,17 @@
         "name": "BepInEx",
         "author": "BepInEx Team",
         "github": "BepInEx/BepInEx",
+        "specific_download": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x64_5.4.23.2.zip",
         "tags": [],
-        "required" : true
+        "required" : true,
         "dependencies" : []
     },
     {
-        "name": "Grate",
-        "author": "The Graze",
-        "github": "The-Graze/Grate",
-        "tags": ["mod menu", "fun"],
-        "required" : false
+        "name": "Utilla",
+        "author": "Legoandmars & others",
+        "github": "developer9998/Utilla",
+        "tags": ["library"],
+        "required" : false,
         "dependencies" : []
     }
 ]
