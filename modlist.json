@@ -12,6 +12,7 @@
         "name": "Utilla",
         "author": "Legoandmars & others",
         "github": "developer9998/Utilla",
+        "specific_download": "",
         "tags": ["library"],
         "required" : false,
         "dependencies" : []
