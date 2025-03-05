@@ -1,9 +1,18 @@
 [
     {
+        "name": "BepInEx",
+        "author": "BepInEx Team",
+        "github": "BepInEx/BepInEx",
+        "tags": [],
+        "required" : true
+        "dependencies" : []
+    },
+    {
         "name": "Grate",
         "author": "The Graze",
         "github": "The-Graze/Grate",
         "tags": ["mod menu", "fun"],
+        "required" : false
         "dependencies" : []
     }
 ]
