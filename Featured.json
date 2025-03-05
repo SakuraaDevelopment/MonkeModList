@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Grate",
+        "author": "The Graze",
+        "github": "The-Graze/Grate",
+        "tags": ["mod menu", "fun"],
+        "dependencies" : []
+    }
+]
