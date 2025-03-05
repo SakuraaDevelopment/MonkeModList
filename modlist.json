@@ -4,6 +4,7 @@
         "author": "BepInEx Team",
         "github": "BepInEx/BepInEx",
         "specific_download": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x64_5.4.23.2.zip",
+        "preview": "https://avatars2.githubusercontent.com/u/39589027",
         "tags": [],
         "required" : true,
         "dependencies" : []
@@ -13,6 +14,7 @@
         "author": "Legoandmars & others",
         "github": "developer9998/Utilla",
         "specific_download": "",
+        "preview: "",
         "tags": ["library"],
         "required" : false,
         "dependencies" : []
