@@ -20,5 +20,27 @@
         "tags": ["library"],
         "required" : false,
         "dependencies" : []
+    },
+    {
+        "name": "Utilla",
+        "author": "Legoandmars & others",
+        "github": "developer9998/Utilla",
+        "specific_download": "",
+        "preview": "",
+        "file_name": "Utilla",
+        "tags": ["library"],
+        "required" : false,
+        "dependencies" : []
+    },
+    {
+        "name": "Utilla",
+        "author": "Legoandmars & others",
+        "github": "developer9998/Utilla",
+        "specific_download": "",
+        "preview": "",
+        "file_name": "Utilla",
+        "tags": ["library"],
+        "required" : false,
+        "dependencies" : []
     }
 ]
