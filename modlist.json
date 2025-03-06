@@ -5,6 +5,7 @@
         "github": "BepInEx/BepInEx",
         "specific_download": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x64_5.4.23.2.zip",
         "preview": "https://avatars2.githubusercontent.com/u/39589027",
+        "file_name": "",
         "tags": [],
         "required" : true,
         "dependencies" : []
@@ -15,6 +16,7 @@
         "github": "developer9998/Utilla",
         "specific_download": "",
         "preview": "",
+        "file_name": "Utilla",
         "tags": ["library"],
         "required" : false,
         "dependencies" : []
