@@ -22,23 +22,23 @@
         "dependencies" : []
     },
     {
-        "name": "Utilla",
+        "name": "UtillaTest2",
         "author": "Legoandmars & others",
         "github": "developer9998/Utilla",
         "specific_download": "",
         "preview": "",
-        "file_name": "Utilla",
+        "file_name": "Utilla2",
         "tags": ["library"],
         "required" : false,
         "dependencies" : []
     },
     {
-        "name": "Utilla",
+        "name": "UtillaTest3",
         "author": "Legoandmars & others",
         "github": "developer9998/Utilla",
         "specific_download": "",
         "preview": "",
-        "file_name": "Utilla",
+        "file_name": "Utilla3",
         "tags": ["library"],
         "required" : false,
         "dependencies" : []
